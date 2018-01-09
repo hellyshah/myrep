@@ -1,0 +1,23 @@
+﻿html,body {
+  overflow-x: hidden;
+  font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+  width: 100%; 
+}
+body {
+  background-image:url(img/home-bg.jpeg)  no-repeat;
+  background-size: cover;
+}
+
+    .centered-form {
+    margin-top: 60px;
+}
+
+    .centered-form .panel {
+        background: rgba(255, 255, 255, 0.8);
+        box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+    }
+
+
+.btncolor{
+    color:black;
+}
